@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Ibbeyibbey/Tipz-Calc/issues/1#issue-700972992 title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Ibbeyibbey/Tipz-Calc/issues/1#issue-700972992'>
 
 Video created with [Awesome Screenshot](https://www.awesomescreenshot.com/).
 
