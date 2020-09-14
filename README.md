@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.youtube.com/watch?v=zAE5QZ9tq6Q' title='Video Walkthrough' width= alt='Video Walkthrough'>
+<img src='https://www.youtube.com/watch?v=zAE5QZ9tq6Q' title='Video Walkthrough' alt='Video Walkthrough'>
 
 Video created with [Awesome Screenshot](https://www.awesomescreenshot.com/).
 
